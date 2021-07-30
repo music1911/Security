@@ -1,8 +1,8 @@
 {
   "invite": "Bot Invite Link",
-  "prefix": "Your Prefix",
-  "discord_owner_id": "Your Id",
-  "token": "Token Bot",
+  "prefix": ">",
+  "discord_owner_id": "611658339134210057",
+  "token": "ODcwMDcxMjk5NzkwMjM3NzI2.YQHbCw.bN0WJAJfwvTQmWNbcyfqpy_ie4I",
   "youtubeAPI": "AIzaSyD3c38MZriadJIdyPSj6ngQ-Q3nM9WIAqE",
   "geniusLyricsAPI": "genius-api-key",
   "tenorAPI": "tenor-API-key",
